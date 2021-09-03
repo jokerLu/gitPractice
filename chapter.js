@@ -1,2 +1,2 @@
 let fun = 'begin';
-let feature_develop = 'feature_develop';
+let feature_release = 'feature_release';
