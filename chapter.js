@@ -1,1 +1,1 @@
-let newchapter = 'after revert'
+let newchapter = 'after revert, test reset'
